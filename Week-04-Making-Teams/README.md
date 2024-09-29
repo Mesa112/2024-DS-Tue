@@ -18,7 +18,7 @@
     * Overview of Job Searching
     * Effective Teamwork and Leadership Skills 
 0. BREAK
-0. [Match-Making Slides](PUT IN LINK TO SLIDE DECK) [30-40min max] [+1hr 15min of class left]
+0. [Match-Making Slides](LINK TO SLIDES) [30-40min max] [+1hr 15min of class left]
 0. Review Project Design Document [5min]
 0. IF TIME:  Breakout Rooms 4-6 ppl per room for 10mins. Can do it more than once if time. [20min]
 0. Review whats due for next week. [5min]
@@ -50,6 +50,7 @@
 
 ## Pre-Class for Next Week's Lecture [~1hr]
 Post in slack one thing you find interesting about unsupervised leanring. 
+
 0. Really good [all about clustering video](https://www.youtube.com/watch?v=vmIkSCiZpWY&ab_channel=Simplilearn) by SimplyLearn. [42min]
     * Video above is **VERY IMPORTANT TO WATCH** before class.
     * Pay close attention to chapters How Clusting works and Distance Measures
